@@ -41,7 +41,7 @@
     letter-spacing: 0em;
 }
 
-.header__link__none a {
+.header__link_active {
     text-decoration: none;
 }
 
