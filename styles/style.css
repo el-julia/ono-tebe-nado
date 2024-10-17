@@ -245,7 +245,6 @@
     font-size: 22px;
     line-height: 120%;
     text-transform: uppercase;
-    text-decoration: underline;
     text-decoration: underline solid 1px;
     text-align: left;
     width: 254px;
@@ -296,7 +295,6 @@
 
 .about__column {
     display: flex;
-    align-items: center;
     align-items: flex-start;
     justify-content: center;
 }
